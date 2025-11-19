@@ -622,13 +622,13 @@ content: `
       .hero {
         padding: 0 40px 25px; /* 移除上padding，由.main控制 */
         flex-shrink: 0;
-        border-bottom: 1px solid #f0f0f0;
       }
 
       .hero h1 {
         margin: 0;
         font-size: 26px;
         font-family: "Futura";
+        font-weight: 400; /* 明确指定 semi-bold */
       }
 
       /* 主要内容区域 */
