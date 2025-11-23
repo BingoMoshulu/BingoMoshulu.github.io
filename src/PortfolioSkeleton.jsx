@@ -14,12 +14,12 @@ export default function PortfolioSkeleton() {
       id: 1,
       category: "1",
       title: "Stories from the Dusk / Illustration, Graphic Design, Poster Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/StoryDusk/titlepic.png",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/StoryDusk/titlepic.png",
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/StoryDusk/cover2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/StoryDusk/1-1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/StoryDusk/1-2.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/StoryDusk/cover2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/StoryDusk/1-1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/StoryDusk/1-2.webp"
 
       ],
     content: `
@@ -65,18 +65,18 @@ have missed a once-in-a-lifetime experience.
       id: 2,
       category: "2",
       title: "Liberation BeerLiberation Beer / Product, Font, Packaging, Visual Identity Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer-logo.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer-logo.webp",
       images: [
 
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer4.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer5.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer6.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer7.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer8.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer9.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer4.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer5.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer6.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer7.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer8.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/LiberationBeerWeb/beer9.webp"
       ],
 content: `
   <div class="work-header">
@@ -103,11 +103,11 @@ content: `
       id: 3,
       category: "3",
       title: "Art Worldbuilding / Poster, Graphic Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/moth.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/moth.webp",
       images: [
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art3.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ArtWorldBuilding1/art3.webp"
       ],
       content: `
   <div class="work-header">
@@ -141,15 +141,15 @@ content: `
       id: 4,
       category: "4",
       title: "Rethinking Artist Economy / Editorial, Publication, Zine, Graphic Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/newhive-01.png",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/newhive-01.png",
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/title-pic.jpg",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page1.jpg",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page2.jpg",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page3.jpg",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page4.jpg",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page5.jpg"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/title-pic.jpg",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page1.jpg",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page2.jpg",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page3.jpg",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page4.jpg",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/RethinkingArtistEconomy/page5.jpg"
       ],
     content: `
   <div class="work-header">
@@ -170,16 +170,16 @@ content: `
       id: 5,
       category: "5",
       title: "Inward Connection / Product, Service, Speculative, Graphic Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/pic6.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/pic6.webp",
       images: [
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/arrow-1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/sword.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/nectar.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/ball.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/card.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/envelope.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/amulet-banner.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/InwardConnection/amulet-banner-back.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/arrow-1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/sword.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/nectar.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/ball.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/card.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/envelope.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/amulet-banner.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/InwardConnection/amulet-banner-back.webp"
       ],
       content: `
   <div class="work-header">
@@ -230,39 +230,39 @@ Religious Items</h1>
       id: 6,
       category: "6",
       title: "MARS / Product, Sustainability, Literature, Bio Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/pic5.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/pic5.webp",
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball0.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball4.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball5.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball6.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball7.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball8.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball9.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball10.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball11.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball12.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball13.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball14.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball15.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball16.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball17.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball18.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball19.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball20.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball21.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball22.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball23.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball24.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball25.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball26.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball27.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball28.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball29.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball0.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball4.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball5.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball6.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball7.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball8.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball9.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball10.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball11.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball12.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball13.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball14.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball15.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball16.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball17.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball18.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball19.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball20.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball21.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball22.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball23.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball24.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball25.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball26.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball27.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball28.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/ReefBall/reefball29.webp"
         
       ],
     content: `
@@ -328,14 +328,14 @@ Religious Items</h1>
       id: 7,
       category: "7",
       title: "Faithless / Card, Graphic, Speculative, Interface Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/titlepic.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/titlepic.webp",
       images: [
 
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/faithless0.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/faithless1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/faithless2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/faithless3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Faithless/faithless4.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/faithless0.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/faithless1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/faithless2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/faithless3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Faithless/faithless4.webp"
       ],
 content: `
   <div class="work-header">
@@ -358,16 +358,16 @@ content: `
       id: 8,
       category: "8",
       title: "WOFL / Editorial, Publication, Zine, Sustainability, Graphic Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/pic-turtle.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/pic-turtle.webp",
       theme: "wofl-theme", // 添加这个属性来标识黑色主题
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/cover.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/4.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/WOFL/5.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/cover.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/4.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/WOFL/5.webp"
       ],
     content: `
   <div class="work-header">
@@ -391,15 +391,15 @@ content: `
       id: 9,
       category: "9",
       title: "Dripping Diary / Info Graphic Design, Data Visualization",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/pic3.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/pic3.webp",
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/4.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/5.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Dripping/6.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/4.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/5.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Dripping/6.webp"
       ],
     content: `
   <div class="work-header">
@@ -435,13 +435,13 @@ content: `
       id: 10,
       category: "10",
       title: "ETHYLENE / Graphic Design, Poster Design",
-      thumbnail: "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Ethylene/pic4.webp",
+      thumbnail: "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Ethylene/pic4.webp",
       images: [
         
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Ethylene/1.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Ethylene/2.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Ethylene/3.webp",
-        "https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Ethylene/4.webp"
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Ethylene/1.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Ethylene/2.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Ethylene/3.webp",
+        "https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Ethylene/4.webp"
       ],
     content: `
   <div class="work-header">
@@ -929,7 +929,7 @@ content: `
             {/* 照片单独一行 */}
             <div className="about-photo-container">
               <img 
-                src="https://raw.githubusercontent.com/BingoMoshulu/Portfolio-Pictures/Hongbin.webp" 
+                src="https://cdn.jsdelivr.net/gh/BingoMoshulu/Portfolio-Pictures/Hongbin.webp" 
                 alt="Hongbin Yang" 
                 className="about-photo" 
               />
